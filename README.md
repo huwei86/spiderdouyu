@@ -1,0 +1,2 @@
+# spiderdouyu
+利用fiddler对手机斗鱼app进行抓包爬虫图片下载（重写ImagesPipeline）
